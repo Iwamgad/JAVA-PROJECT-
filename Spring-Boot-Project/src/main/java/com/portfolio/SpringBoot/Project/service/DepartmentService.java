@@ -1,2 +1,5 @@
-package com.portfolio.SpringBoot.Project.service;public interface DepartmentService {
+package com.portfolio.SpringBoot.Project.service;
+
+public interface DepartmentService {
+
 }
