@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class DepartmentController {
 
-    @PostMapping(/departments)
-    public Department saveDepartment(@RequestBody Department department){
-
-    }
+//    @PostMapping(/departments)
+//    public Department saveDepartment(@RequestBody Department department){
+//
+//    }
 }
