@@ -20,7 +20,7 @@ import org.hibernate.validator.constraints.Length;
 public class Department {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.TABLE)
     private Long departmentId;
 
     @NotBlank(message = "Please Add the Department Name")
